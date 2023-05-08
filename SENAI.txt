@@ -1,0 +1,6 @@
+SENAI: servico nacional de aprendizagem industrial 
+END:Av freio joao 
+Numero:400
+cidade:Luzerna
+Estado:Santa Catarina 
+CEP:89609-000

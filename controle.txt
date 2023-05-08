@@ -1,2 +1,3 @@
 !   
 primeira alteraçao: criado pastas  , e feito o commit!!!! 
+feito o git push , criado a pasta imagens, com imagem 1 mar , imagem 2 sol , e imagem 3 ceu, criado pasta txt dentro da pasta imagem

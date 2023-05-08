@@ -1,3 +1,4 @@
 !   
 primeira alteraçao: criado pastas  , e feito o commit!!!! 
 feito o git push , criado a pasta imagens, com imagem 1 mar , imagem 2 sol , e imagem 3 ceu, criado pasta txt dentro da pasta imagem
+segunda alteraçao : pasta imagem commitada por completo , criado a pasta cod , e criado o arquico txt dentro da pasta cod 
